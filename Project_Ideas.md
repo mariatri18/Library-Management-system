@@ -1,4 +1,4 @@
-﻿**7. Library Management System** 
+﻿<h2>7. Library Management System</h2>
 
 Learning Management System, this project build on Java is a great way to update the record, monitor and add books, search for the required ones, taking care of the issue date and return date. It comes with basic features like creating a new record and updating and deleting it. 
 
@@ -50,7 +50,7 @@ Keep in mind that a project of this nature can be quite complex, so careful plan
 
 
 
-**34. Weather Information System**
+<h2>34. Weather Information System</h2>
 
 This application tells you the weather-related information about your location and also of other locations. This Java-based application can be the best project for your minor project submission.
 
